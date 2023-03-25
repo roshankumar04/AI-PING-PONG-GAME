@@ -38,3 +38,7 @@ canvas{
     box-shadow: 5px 5px 5px gray;
     margin-top: 160px;
 }
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
